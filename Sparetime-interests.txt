@@ -1,0 +1,37 @@
+- 音频变调变速
++ chrome extension storage
+- VHDL
+- 新浪，微信，人人接入，微信公共号
+- nodejs后台，python后台
++ AngularJS
++ markdown
+
+* Perl、Lisp、Functionsl programming
+* Sencha Touch
+
+
+
+
+books:
+- 代码的未来
+- 自制编程语言
+- CPU自制入门
+- 大数据的冲击
+- 图灵的秘密
+- 挑战程序设计竞赛
+- Javascript编程全解
+- 黑客与画家
+- 宇宙之书：从托勒密、爱因斯坦到多重宇宙
+- 可能与不可能的边界：P/NP问题趣史
+- 信息简史
+- 深入浅出NodeJS
+
+* 人月神话
+* 浪潮之巅
+* 量子物理史话
+* 银河英雄传说
+* 数学之美
+* 思考的乐趣
+
+
+	
