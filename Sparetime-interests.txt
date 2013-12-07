@@ -1,12 +1,12 @@
 - 音频变调变速
 + chrome extension storage
 - VHDL
-- 新浪，微信，人人接入，微信公共号
+- 新浪，微信，人人接入（小黄鸡），微信公共号
 - nodejs后台，python后台
 + AngularJS
 + markdown
 
-* Perl、Lisp、Functionsl programming
+* Perl、Lisp、Functionsl programming、Go、Lua
 * Sencha Touch
 
 
