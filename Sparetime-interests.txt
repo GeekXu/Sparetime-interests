@@ -9,7 +9,7 @@ This list start from 2013.11.20
 + AngularJS
 + markdown
 + 迷宫生成算法
-- 傅里叶变换、基频、谐波
++ 基波、谐波、泛音
 
 * Perl、Lisp、Functionsl programming、Go、Lua
 * Sencha Touch
@@ -38,6 +38,7 @@ books:
 * 银河英雄传说
 * 数学之美
 * 思考的乐趣
+* 通信原理
 
 
 
