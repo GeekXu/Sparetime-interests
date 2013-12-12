@@ -1,4 +1,4 @@
-This list start from 11.20
+This list start from 2013.11.20
 
 
 + 音频变调不变速不失真（频域、时域、傅里叶）
