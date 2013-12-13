@@ -1,27 +1,39 @@
-This list start from 2013.11.20
+This list start from 2013.11.20. 
+This list only contains interested skills and books.
+This list is for reminding and recording.
 
+- 代表还未开始（高优先级）
+* 代表还未开始（低优先级）
++ 代表已完成
+# 代表由于某些原因暂时放缓
+% 代表正在进行
+@ 代表废弃
 
+-----------------------------------------------------------------------------------------
+skills：
 + 音频变调不变速不失真（频域、时域、傅里叶）
 + chrome extension storage
-# VHDL（现阶段使用JTAG注入故障，暂时用不到）
-- 新浪，微信（nodejs后台），人人接入（小黄鸡），微信公共号
+# VHDL、LEON3软核（现阶段使用JTAG注入故障，暂时用不到）
+- 新浪，微信（nodejs后台），人人接入（小黄鸡），微信公共号（申请不到服务号）
 - nodejs（ghost），python后台
 + AngularJS
 + markdown
++ Linux xargs
 + 迷宫生成算法
 + 基波、谐波、泛音
+
 
 * Perl、Lisp、Functionsl programming、Go、Lua
 * Sencha Touch
 
 
 
-
+-------------------------------------------------------------------------------------------
 books:
 - 代码的未来
 - 自制编程语言
 - CPU自制入门
-# 大数据的冲击（下的电子书不全）
+# 大数据的冲击（电子书不全）
 - 图灵的秘密
 - 挑战程序设计竞赛
 - Javascript编程全解
@@ -39,13 +51,3 @@ books:
 * 数学之美
 * 思考的乐趣
 * 通信原理
-
-
-
-
-- 代表还未开始（高优先级）
-* 代表还未开始（低优先级）
-+ 代表已完成
-# 代表由于某些原因暂时放缓
-% 代表正在进行
-@ 代表废弃
