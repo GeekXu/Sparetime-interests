@@ -1,5 +1,5 @@
 This list start from 2013.11.20. 
-This list only contains interested skills and books.
+This list only contains interested knowledge and books.
 This list is for reminding and recording.
 
 - 代表还未开始（高优先级）
@@ -10,7 +10,7 @@ This list is for reminding and recording.
 @ 代表废弃
 
 -----------------------------------------------------------------------------------------
-skills：
+knowledge：
 + 音频变调不变速不失真（频域、时域、傅里叶）
 + chrome extension storage
 # VHDL、LEON3软核（现阶段使用JTAG注入故障，暂时用不到）
@@ -43,6 +43,7 @@ books:
 % 信息简史
 - 深入浅出NodeJS
 @ 银河之心·暗黑深渊（太烂）
+- iOS开发指南
 
 * 人月神话
 * 浪潮之巅
