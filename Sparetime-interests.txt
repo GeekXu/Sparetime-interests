@@ -23,6 +23,9 @@ knowledge：
 + 基波、谐波、泛音
 - LESS、SASS
 - GRUNT
+- CoffeeScript、Dart
+- Redis、MongoDB
+- JSLint、JSHint
 
 
 * Perl、Lisp、Functionsl programming、Go、Lua
@@ -39,18 +42,27 @@ books:
 - 图灵的秘密
 - 挑战程序设计竞赛
 - Javascript编程全解
+- JavaScript权威指南（第6版）
 + 黑客与画家
-- 宇宙之书：从托勒密、爱因斯坦到多重宇宙
 - 可能与不可能的边界：P/NP问题趣史
 % 信息简史
 - 深入浅出NodeJS
 @ 银河之心·暗黑深渊（太烂）
 - iOS开发指南
++ Javascript语言精粹
++ Javascript编程精解
+% Node.js开发指南
++ jQuery基础教程
+- 写给大家看的设计书
+- 程序员的数学
+- 世界是数字的
+
 
 * 人月神话
 + 浪潮之巅
 % 量子物理史话
 + 银河英雄传说
++ 宇宙之书：从托勒密、爱因斯坦到多重宇宙
 * 数学之美
 * 思考的乐趣
 * 通信原理
