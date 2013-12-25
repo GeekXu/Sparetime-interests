@@ -28,7 +28,7 @@ knowledge：
 - JSLint、JSHint
 
 
-* Perl、Lisp、Functionsl programming、Go、Lua
+* Perl、Lisp、Functional programming、Go、Lua
 * Sencha Touch
 
 
@@ -55,7 +55,9 @@ books:
 + jQuery基础教程
 - 写给大家看的设计书
 - 程序员的数学
-- 世界是数字的
++ 世界是数字的
+- 七周七语言
+- 学习正则表达式
 
 
 * 人月神话
@@ -66,3 +68,5 @@ books:
 * 数学之美
 * 思考的乐趣
 * 通信原理
+* 征服C指针
++ 番茄工作法图解
