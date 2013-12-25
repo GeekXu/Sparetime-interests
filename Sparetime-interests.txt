@@ -46,12 +46,13 @@ books:
 + 黑客与画家
 - 可能与不可能的边界：P/NP问题趣史
 % 信息简史
-- 深入浅出NodeJS
+% 深入浅出NodeJS
 @ 银河之心·暗黑深渊（太烂）
 - iOS开发指南
 + Javascript语言精粹
 + Javascript编程精解
 % Node.js开发指南
+% Node.js即学即用
 + jQuery基础教程
 - 写给大家看的设计书
 - 程序员的数学
