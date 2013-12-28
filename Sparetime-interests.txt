@@ -16,7 +16,7 @@ knowledge：
 # VHDL、LEON3软核（现阶段使用JTAG注入故障，暂时用不到）
 - 新浪，微信（nodejs后台），人人接入（小黄鸡），微信公共号（申请不到服务号）
 - nodejs（ghost，XOA），python后台
-+ AngularJS
+% AngularJS
 + markdown
 + Linux xargs
 + 迷宫生成算法
@@ -26,6 +26,8 @@ knowledge：
 - CoffeeScript、Dart
 - Redis、MongoDB
 - JSLint、JSHint
+- Three.js、Impress.js
+- Backbone.JS AngularJS 等JS端MVC
 
 
 * Perl、Lisp、Functional programming、Go、Lua
@@ -47,16 +49,14 @@ books:
 - 可能与不可能的边界：P/NP问题趣史
 % 信息简史
 % 深入浅出NodeJS
-@ 银河之心·暗黑深渊（太烂）
-- iOS开发指南
-+ Javascript语言精粹
++ Javascript语言精粹（赞）
 + Javascript编程精解
 % Node.js开发指南
 % Node.js即学即用
 + jQuery基础教程
-- 写给大家看的设计书
++ 写给大家看的设计书（第一章设计原理不错）
 - 程序员的数学
-+ 世界是数字的
++ 世界是数字的（适合非专业人士看）
 - 七周七语言
 - 学习正则表达式
 
@@ -65,9 +65,11 @@ books:
 + 浪潮之巅
 % 量子物理史话
 + 银河英雄传说
+@ 银河之心·暗黑深渊（太烂）
 + 宇宙之书：从托勒密、爱因斯坦到多重宇宙
 * 数学之美
 * 思考的乐趣
 * 通信原理
 * 征服C指针
-+ 番茄工作法图解
++ 番茄工作法图解（感觉这种工作法并不太适合我们现在大块连续时间的工作模式）
+* iOS开发指南
