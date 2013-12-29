@@ -25,9 +25,10 @@ knowledge：
 - GRUNT
 - CoffeeScript、Dart
 - Redis、MongoDB
-- JSLint、JSHint
++ JSLint、JSHint
 - Three.js、Impress.js
 - Backbone.JS AngularJS 等JS端MVC
++ 普通AJAX和JSON-P区别，他们callback的区别
 
 
 * Perl、Lisp、Functional programming、Go、Lua
@@ -49,11 +50,12 @@ books:
 - 可能与不可能的边界：P/NP问题趣史
 % 信息简史
 % 深入浅出NodeJS
-+ Javascript语言精粹（赞）
-+ Javascript编程精解
++ JavaScript语言精粹（赞）
++ JavaScript编程精解
++ JavaScript修炼之道（一般，都是例子，没有相应原理的解释，而且为了每一个例子都凑成一页说明一页代码，太局促了）
 % Node.js开发指南
 % Node.js即学即用
-+ jQuery基础教程
++ jQuery基础教程（还好。。）
 + 写给大家看的设计书（第一章设计原理不错）
 - 程序员的数学
 + 世界是数字的（适合非专业人士看）
