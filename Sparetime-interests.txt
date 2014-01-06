@@ -29,6 +29,7 @@ Interested points：
 - Three.js、Impress.js
 - Backbone.JS AngularJS 等JS端MVC
 + 普通AJAX和JSON-P区别，他们callback的区别
++ SOPC、Sparc V8、Leon3？Sparc V8是和risc，cisc一个级别的，是处理器架构。Leon3是Sparc的一个软核实现，和nios一个级别的
 
 
 * Perl、Lisp、Functional programming、Go、Lua
